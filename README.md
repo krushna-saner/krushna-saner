@@ -1,3 +1,5 @@
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile!%20👋&fontSize=35&fontColor=ffffff)
+
 # Hi 👋, I'm Krushna Saner
 
 🚀 Full Stack Java Developer | React.js | Spring Boot
@@ -24,7 +26,7 @@
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40")
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
 ---
@@ -83,18 +85,10 @@ Seeking a role where I can contribute to building innovative and impactful softw
 
 ---
 
-## 💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krushna-saner&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krushna-saner&theme=react-dark)
 
 ---
-
-## 🚀 Bottom Banner
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff)
